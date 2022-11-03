@@ -1,3 +1,3 @@
-module github.com/gotid/god/antlr
+module github.com/gotid/antlr
 
 go 1.19
